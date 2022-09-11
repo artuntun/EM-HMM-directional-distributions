@@ -13,7 +13,7 @@ The hypothesis that the intensity of the signals was not relevant, but their dir
 
 ![](./assets/directional_distribution.png)
 
-The code includes the vonMises-Fisher and Watson EM-HMM estimators. For it's development the following papers were used:
+The code includes the vonMises-Fisher and Watson EM-HMM estimators. For its development the following papers were used as reference:
 - [Clustering on the Unit Hypersphere using von Mises-Fisher Distributions](https://www.jmlr.org/papers/volume6/banerjee05a/banerjee05a.pdf)
 - [A short note on parameter approximation for von Mises-Fisher distributions:
 and a fast implementation of Is(x)](https://link.springer.com/article/10.1007/s00180-011-0232-x)
