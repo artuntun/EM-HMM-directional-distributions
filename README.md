@@ -1,5 +1,5 @@
 # TLDR
-An expectation maximization(EM) estimator was developed for modeling EEG data with Hidden Markov Models and a Mixture of Multivariate Directional distributions (Watson and Von Mises). Check the report in [here](./assets/modeling_eeg_watson_dist.pdf)
+An expectation maximization(EM) estimator was developed for modeling EEG data with Hidden Markov Models and a Mixture of Multivariate Directional distributions (Watson and Von Mises). Check the report in [here](https://arturoarranz.com/uploads/modeling_eeg_watson_dist.pdf)
 
 ![](./assets/eeg.png)
 
