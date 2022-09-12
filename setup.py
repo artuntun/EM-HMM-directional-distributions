@@ -20,11 +20,11 @@ setup_kwargs = {
     'long_description': long_description,
     'license': 'MIT',
     'author': 'Arturo Arranz',
-    # 'url': 'https://github.com/uizard-io/pip-package-uizard-nolybab',
     'packages': find_packages(),
     'package_data': {
         'em_hmm_directional': ['py.typed'],
     },
+    'url': 'https://github.com/artuntun/EM-HMM-directional-distributions.git',
     'zip_safe': False,
     'install_requires': INSTALL_REQUIRES,
     'extras_require': EXTRAS_REQUIRE,
